@@ -4,8 +4,8 @@ assignments = {
       "title": "Coursework 1",
       "course": "202324_32435_COMP1211",
       "dueDate": "2023-11-16T14:00:00",
-      "link": "https://www.gradescope.com/courses/633850/assignments/3410906/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/633850/assignments/3410906/submissions/209861362",
+      "submitted": true
     }
   ],
   "202324_32437_COMP1421": [
