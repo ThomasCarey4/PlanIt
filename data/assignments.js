@@ -30,7 +30,7 @@ assignments = {
     {
       "title": "week 05 submission - unimodule.py",
       "course": "202324_39156_COMP1012",
-      "dueDate": "2023-11-05T23:59:00",
+      "dueDate": "2023-11-12T23:59:00",
       "link": "https://www.gradescope.com/courses/550772/assignments/2943641/submissions/205688325",
       "submitted": true
     },
@@ -47,6 +47,20 @@ assignments = {
       "dueDate": "2023-10-29T23:59:00",
       "link": "https://www.gradescope.com/courses/550772/assignments/2943644/submissions/205673853",
       "submitted": true
+    },
+    {
+      "title": "week 06  submission - summary.py",
+      "course": "202324_39156_COMP1012",
+      "dueDate": "2023-11-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/550772",
+      "submitted": false
+    },
+    {
+      "title": "week 06 submission[optional] - caesar.py",
+      "course": "202324_39156_COMP1012",
+      "dueDate": "2023-11-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/550772",
+      "submitted": false
     },
     {
       "title": "week 03 submission - gradescope_test.py",
