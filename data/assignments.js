@@ -70,6 +70,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "week 07 submission - ducky.py",
+      "course": "202324_39156_COMP1012",
+      "dueDate": "2023-12-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/550772",
+      "submitted": false
+    },
+    {
       "title": "week 03 submission - gradescope_test.py",
       "course": "202324_39156_COMP1012",
       "dueDate": "2023-10-22T23:59:00",
