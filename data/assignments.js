@@ -59,8 +59,8 @@ assignments = {
       "title": "week 06  submission - summary.py",
       "course": "202324_39156_COMP1012",
       "dueDate": "2023-11-19T23:59:00",
-      "link": "https://www.gradescope.com/courses/550772",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/550772/assignments/2943662/submissions/212485789",
+      "submitted": true
     },
     {
       "title": "week 06 submission[optional] - caesar.py",
