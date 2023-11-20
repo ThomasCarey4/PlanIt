@@ -31,6 +31,20 @@ assignments = {
       "dueDate": "2023-11-03T14:05:00",
       "link": "https://www.gradescope.com/courses/658287/assignments/3583378/submissions/205999941",
       "submitted": true
+    },
+    {
+      "title": "Part 2 - Task 2 - Analysing Our Data",
+      "course": "202324_32439_COMP1711",
+      "dueDate": "2023-12-13T14:00:00",
+      "link": "https://www.gradescope.com/courses/658287",
+      "submitted": false
+    },
+    {
+      "title": "Part 2 - Task 3 - Outputting Sorted Data",
+      "course": "202324_32439_COMP1711",
+      "dueDate": "2023-12-13T14:00:00",
+      "link": "https://www.gradescope.com/courses/658287",
+      "submitted": false
     }
   ],
   "202324_39156_COMP1012": [
