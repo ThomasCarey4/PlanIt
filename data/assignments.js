@@ -94,8 +94,8 @@ assignments = {
       "title": "week 08 submission - table.html",
       "course": "202324_39156_COMP1012",
       "dueDate": "2023-12-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/550772",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/550772/assignments/2949565/submissions/215461876",
+      "submitted": true
     },
     {
       "title": "week 0910 submission[optional] - calculate_grade.html",
