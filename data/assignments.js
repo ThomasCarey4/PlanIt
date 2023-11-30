@@ -133,6 +133,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Coursework 2 submission",
+      "course": "202324_39156_COMP1012",
+      "dueDate": "2023-12-14T10:00:00",
+      "link": "https://www.gradescope.com/courses/550772",
+      "submitted": false
+    },
+    {
       "title": "perfecting_my_cwk1_code",
       "course": "202324_39156_COMP1012",
       "dueDate": "2023-12-15T23:59:00",
