@@ -22,6 +22,13 @@ assignments = {
       "dueDate": "2023-11-02T10:00:00",
       "link": "https://www.gradescope.com/courses/640079",
       "submitted": false
+    },
+    {
+      "title": "Coursework 2",
+      "course": "202324_32437_COMP1421",
+      "dueDate": "2023-12-07T10:00:00",
+      "link": "https://www.gradescope.com/courses/640079/assignments/3448520/submissions/new",
+      "submitted": false
     }
   ],
   "202324_32439_COMP1711": [
