@@ -43,8 +43,8 @@ assignments = {
       "title": "Part 2 - Task 2 - Analysing Our Data",
       "course": "202324_32439_COMP1711",
       "dueDate": "2023-12-13T14:00:00",
-      "link": "https://www.gradescope.com/courses/658287",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/658287/assignments/3706746/submissions/219415077",
+      "submitted": true
     },
     {
       "title": "Part 2 - Task 3 - Outputting Sorted Data",
