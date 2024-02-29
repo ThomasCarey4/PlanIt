@@ -1,5 +1,13 @@
 assignments = {
-  "202324_32434_COMP1121": [],
+  "202324_32434_COMP1121": [
+    {
+      "title": "Coursework1",
+      "course": "202324_32434_COMP1121",
+      "dueDate": "2024-03-14T10:00:00",
+      "link": "https://www.gradescope.com/courses/712711",
+      "submitted": false
+    }
+  ],
   "202324_32438_COMP1511": [
     {
       "title": "Coursework 1",
