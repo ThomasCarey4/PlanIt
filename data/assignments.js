@@ -22,6 +22,13 @@ assignments = {
       "dueDate": "2024-03-08T17:00:00",
       "link": "https://www.gradescope.com/courses/680728/assignments/3785488/submissions/236695282",
       "submitted": true
+    },
+    {
+      "title": "Coursework 3",
+      "course": "202324_32438_COMP1511",
+      "dueDate": "2024-03-22T17:00:00",
+      "link": "https://www.gradescope.com/courses/680728/assignments/3785506/submissions/new",
+      "submitted": false
     }
   ],
   "202324_32441_COMP1911": [],
