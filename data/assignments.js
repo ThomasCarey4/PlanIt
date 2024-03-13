@@ -13,8 +13,8 @@ assignments = {
       "title": "Coursework 1 Parts a-c",
       "course": "202324_32436_COMP1212",
       "dueDate": "2024-03-14T10:00:00",
-      "link": "https://www.gradescope.com/courses/735969",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/735969/assignments/4095081/submissions/238773879",
+      "submitted": true
     },
     {
       "title": "Coursework 1 Parts (d-h)",
