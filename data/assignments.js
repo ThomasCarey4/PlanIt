@@ -55,6 +55,27 @@ assignments = {
       "dueDate": "2024-02-29T16:00:00",
       "link": "https://www.gradescope.com/courses/718272/assignments/4107453/submissions/235293355",
       "submitted": true
+    },
+    {
+      "title": "Assignment 2 - Maze Game",
+      "course": "202324_32442_COMP1921",
+      "dueDate": "2024-05-02T16:00:00",
+      "link": "https://www.gradescope.com/courses/718272",
+      "submitted": false
+    },
+    {
+      "title": "Assignment 2 - Extension - Mazegen",
+      "course": "202324_32442_COMP1921",
+      "dueDate": "2024-05-02T16:00:00",
+      "link": "https://www.gradescope.com/courses/718272",
+      "submitted": false
+    },
+    {
+      "title": "RESIT STUDENTS ONLY - Assignment 2 Maze game",
+      "course": "202324_32442_COMP1921",
+      "dueDate": "2024-05-02T16:00:00",
+      "link": "https://www.gradescope.com/courses/718272",
+      "submitted": false
     }
   ]
 };
