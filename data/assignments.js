@@ -43,8 +43,8 @@ assignments = {
       "title": "Coursework 3",
       "course": "202324_32438_COMP1511",
       "dueDate": "2024-03-22T17:00:00",
-      "link": "https://www.gradescope.com/courses/680728/assignments/3785506/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/680728/assignments/3785506/submissions/240170131",
+      "submitted": true
     }
   ],
   "202324_32441_COMP1911": [],
