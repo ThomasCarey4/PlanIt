@@ -52,6 +52,13 @@ assignments = {
       "dueDate": "2024-03-22T17:00:00",
       "link": "https://www.gradescope.com/courses/680728/assignments/3785506/submissions/240170131",
       "submitted": true
+    },
+    {
+      "title": "Coursework 4",
+      "course": "202324_32438_COMP1511",
+      "dueDate": "2024-05-03T17:01:00",
+      "link": "https://www.gradescope.com/courses/680728/assignments/3785509/submissions/new",
+      "submitted": false
     }
   ],
   "202324_32441_COMP1911": [],
