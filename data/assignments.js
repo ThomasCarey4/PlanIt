@@ -74,8 +74,8 @@ assignments = {
       "title": "Assignment 2 - Maze Game",
       "course": "202324_32442_COMP1921",
       "dueDate": "2024-05-02T16:00:00",
-      "link": "https://www.gradescope.com/courses/718272",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/718272/assignments/4230930/submissions/249907038",
+      "submitted": true
     },
     {
       "title": "Assignment 2 - Extension - Mazegen",
