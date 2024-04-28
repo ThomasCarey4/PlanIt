@@ -27,7 +27,7 @@ assignments = {
       "title": "Coursework II: Assembly Language Programming 23/24",
       "course": "202324_32436_COMP1212",
       "dueDate": "2024-05-09T10:00:00",
-      "link": "https://www.gradescope.com/courses/735969/assignments/4243061/submissions/250501476",
+      "link": "https://www.gradescope.com/courses/735969/assignments/4243061/submissions/250626560",
       "submitted": true
     }
   ],
