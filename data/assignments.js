@@ -104,6 +104,20 @@ assignments = {
       "dueDate": "2024-05-02T16:00:00",
       "link": "https://www.gradescope.com/courses/718272",
       "submitted": false
+    },
+    {
+      "title": "Resit - Island Task",
+      "course": "202324_32442_COMP1921",
+      "dueDate": "2024-08-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/718272",
+      "submitted": false
+    },
+    {
+      "title": "Resit - Island Generator Extension Task",
+      "course": "202324_32442_COMP1921",
+      "dueDate": "2024-08-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/718272/assignments/4612876/submissions/new",
+      "submitted": false
     }
   ]
 };
