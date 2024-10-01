@@ -65,5 +65,6 @@ assignments = {
       "link": "https://www.gradescope.com/courses/873347/assignments/5002509/submissions/new",
       "submitted": false
     }
-  ]
+  ],
+  "202425_32881_COMP2711": []
 };
