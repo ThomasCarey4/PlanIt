@@ -71,7 +71,7 @@ assignments = {
       "title": "Preparation for Tutorial 1",
       "course": "202425_32881_COMP2711",
       "dueDate": "2024-10-08T11:00:00",
-      "link": "https://www.gradescope.com/courses/876566/assignments/5082732/submissions/new",
+      "link": "https://www.gradescope.com/courses/876566",
       "submitted": false
     }
   ]
