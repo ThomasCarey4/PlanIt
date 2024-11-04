@@ -15,6 +15,13 @@ assignments = {
       "dueDate": "2024-11-07T14:00:00",
       "link": "https://www.gradescope.com/courses/860071",
       "submitted": false
+    },
+    {
+      "title": "Test",
+      "course": "202425_32874_COMP2211",
+      "dueDate": "2024-11-05T19:09:00",
+      "link": "https://www.gradescope.com/courses/860071",
+      "submitted": false
     }
   ],
   "202425_32879_COMP2421": [
