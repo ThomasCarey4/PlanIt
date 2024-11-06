@@ -117,6 +117,13 @@ assignments = {
       "dueDate": "2024-11-06T14:00:00",
       "link": "https://www.gradescope.com/courses/876566/assignments/5177862/submissions/281022776",
       "submitted": true
+    },
+    {
+      "title": "Tutorial 4: Questions 3, 6, 7",
+      "course": "202425_32881_COMP2711",
+      "dueDate": "2024-11-12T11:00:00",
+      "link": "https://www.gradescope.com/courses/876566/assignments/5278163/submissions/new",
+      "submitted": false
     }
   ]
 };
