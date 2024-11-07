@@ -13,8 +13,8 @@ assignments = {
       "title": "Xv6 small shell interface",
       "course": "202425_32874_COMP2211",
       "dueDate": "2024-11-07T14:00:00",
-      "link": "https://www.gradescope.com/courses/860071",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/860071/assignments/5069538/submissions/286540295",
+      "submitted": true
     }
   ],
   "202425_32879_COMP2421": [
