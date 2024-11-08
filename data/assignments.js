@@ -124,6 +124,13 @@ assignments = {
       "dueDate": "2024-11-12T11:00:00",
       "link": "https://www.gradescope.com/courses/876566/assignments/5278163/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Coursework 2",
+      "course": "202425_32881_COMP2711",
+      "dueDate": "2024-12-02T14:00:00",
+      "link": "https://www.gradescope.com/courses/876566/assignments/5286111/submissions/new",
+      "submitted": false
     }
   ]
 };
