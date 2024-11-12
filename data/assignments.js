@@ -108,7 +108,7 @@ assignments = {
       "title": "Preparation for Tutorial 5",
       "course": "202425_32881_COMP2711",
       "dueDate": "2024-11-12T11:00:00",
-      "link": "https://www.gradescope.com/courses/876566/assignments/5082752/submissions/new",
+      "link": "https://www.gradescope.com/courses/876566",
       "submitted": false
     },
     {
@@ -122,7 +122,7 @@ assignments = {
       "title": "Tutorial 4: Questions 3, 6, 7",
       "course": "202425_32881_COMP2711",
       "dueDate": "2024-11-12T11:00:00",
-      "link": "https://www.gradescope.com/courses/876566/assignments/5278163/submissions/new",
+      "link": "https://www.gradescope.com/courses/876566",
       "submitted": false
     },
     {
