@@ -119,6 +119,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Preparation for Tutorial 6",
+      "course": "202425_32881_COMP2711",
+      "dueDate": "2024-11-19T11:00:00",
+      "link": "https://www.gradescope.com/courses/876566/assignments/5082754/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Coursework 1",
       "course": "202425_32881_COMP2711",
       "dueDate": "2024-11-06T14:00:00",
