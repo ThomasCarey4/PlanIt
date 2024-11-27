@@ -6,6 +6,13 @@ assignments = {
       "dueDate": "2024-10-31T14:00:00",
       "link": "https://www.gradescope.com/courses/900272/assignments/5194110/submissions/283840063",
       "submitted": true
+    },
+    {
+      "title": "Coursework 2",
+      "course": "202425_32870_COMP2011",
+      "dueDate": "2024-12-05T14:00:00",
+      "link": "https://www.gradescope.com/courses/900272/assignments/5386542/submissions/new",
+      "submitted": false
     }
   ],
   "202425_32874_COMP2211": [
