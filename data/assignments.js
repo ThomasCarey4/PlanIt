@@ -133,6 +133,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Preparation for Tutorial 8",
+      "course": "202425_32881_COMP2711",
+      "dueDate": "2024-12-03T11:00:00",
+      "link": "https://www.gradescope.com/courses/876566/assignments/5082761/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Coursework 1",
       "course": "202425_32881_COMP2711",
       "dueDate": "2024-11-06T14:00:00",
@@ -150,8 +157,8 @@ assignments = {
       "title": "Coursework 2",
       "course": "202425_32881_COMP2711",
       "dueDate": "2024-12-02T14:00:00",
-      "link": "https://www.gradescope.com/courses/876566/assignments/5286111/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/876566/assignments/5286111/submissions/293208092",
+      "submitted": true
     }
   ]
 };
