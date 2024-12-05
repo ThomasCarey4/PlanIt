@@ -11,8 +11,8 @@ assignments = {
       "title": "Coursework 2",
       "course": "202425_32870_COMP2011",
       "dueDate": "2024-12-05T14:00:00",
-      "link": "https://www.gradescope.com/courses/900272/assignments/5386542/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/900272/assignments/5386542/submissions/294775760",
+      "submitted": true
     }
   ],
   "202425_32874_COMP2211": [
