@@ -78,7 +78,7 @@ assignments = {
       "title": "Portfolio section 8",
       "course": "202425_32879_COMP2421",
       "dueDate": "2024-12-10T14:00:00",
-      "link": "https://www.gradescope.com/courses/873347/assignments/5002509/submissions/new",
+      "link": "https://www.gradescope.com/courses/873347",
       "submitted": false
     },
     {
