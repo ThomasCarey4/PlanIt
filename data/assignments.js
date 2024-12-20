@@ -85,8 +85,8 @@ assignments = {
       "title": "Final coursework",
       "course": "202425_32879_COMP2421",
       "dueDate": "2024-12-18T14:00:00",
-      "link": "https://www.gradescope.com/courses/873347",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/873347/assignments/5002615/submissions/298435404",
+      "submitted": true
     }
   ],
   "202425_32881_COMP2711": [
