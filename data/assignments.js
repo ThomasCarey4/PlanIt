@@ -15,5 +15,6 @@ assignments = {
       "submitted": false
     }
   ],
+  "202425_32880_COMP2611": [],
   "202425_35699_COMP2912": []
 };
