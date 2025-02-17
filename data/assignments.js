@@ -17,6 +17,13 @@ assignments = {
   ],
   "202425_32880_COMP2611": [
     {
+      "title": "A1. Sliding Blocks Puzzle and Robot Worker SUBMISSION",
+      "course": "202425_32880_COMP2611",
+      "dueDate": "2025-02-21T17:00:00",
+      "link": "https://www.gradescope.com/courses/975231",
+      "submitted": false
+    },
+    {
       "title": "Search,  Adv Games and KRR questions for exam revision",
       "course": "202425_32880_COMP2611",
       "dueDate": "2025-12-31T09:00:00",
