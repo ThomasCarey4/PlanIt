@@ -31,6 +31,14 @@ assignments = {
       "submitted": false
     }
   ],
-  "202425_32882_COMP2721": [],
+  "202425_32882_COMP2721": [
+    {
+      "title": "Coursework 1",
+      "course": "202425_32882_COMP2721",
+      "dueDate": "2025-03-03T10:00:00",
+      "link": "https://www.gradescope.com/courses/976414/assignments/5726433/submissions/new",
+      "submitted": false
+    }
+  ],
   "202425_35699_COMP2912": []
 };
