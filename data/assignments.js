@@ -24,6 +24,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Assignment 2 - Decision Trees",
+      "course": "202425_32880_COMP2611",
+      "dueDate": "2025-03-14T17:00:00",
+      "link": "https://www.gradescope.com/courses/975231",
+      "submitted": false
+    },
+    {
       "title": "Search,  Adv Games and KRR questions for exam revision",
       "course": "202425_32880_COMP2611",
       "dueDate": "2025-12-31T09:00:00",
