@@ -13,6 +13,20 @@ assignments = {
       "dueDate": "2025-09-15T17:00:00",
       "link": "https://www.gradescope.com/courses/961993",
       "submitted": false
+    },
+    {
+      "title": "Coursework: CHECK",
+      "course": "202425_32875_COMP2221",
+      "dueDate": "2025-03-24T14:00:00",
+      "link": "https://www.gradescope.com/courses/961993",
+      "submitted": false
+    },
+    {
+      "title": "Coursework: FINAL",
+      "course": "202425_32875_COMP2221",
+      "dueDate": "2025-03-24T14:00:00",
+      "link": "https://www.gradescope.com/courses/961993",
+      "submitted": false
     }
   ],
   "202425_32880_COMP2611": [
