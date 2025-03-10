@@ -40,7 +40,7 @@ assignments = {
     {
       "title": "Assignment 2 - Decision Trees",
       "course": "202425_32880_COMP2611",
-      "dueDate": "2025-03-14T17:00:00",
+      "dueDate": "2025-03-14T23:59:00",
       "link": "https://www.gradescope.com/courses/975231",
       "submitted": false
     },
