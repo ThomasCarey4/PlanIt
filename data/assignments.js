@@ -57,8 +57,8 @@ assignments = {
       "title": "Coursework 2",
       "course": "202425_32882_COMP2721",
       "dueDate": "2025-03-17T10:00:00",
-      "link": "https://www.gradescope.com/courses/976414/assignments/5726429/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/976414/assignments/5726429/submissions/317649674",
+      "submitted": true
     },
     {
       "title": "Coursework 1",
