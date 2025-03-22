@@ -18,8 +18,8 @@ assignments = {
       "title": "Coursework: CHECK",
       "course": "202425_32875_COMP2221",
       "dueDate": "2025-03-24T14:00:00",
-      "link": "https://www.gradescope.com/courses/961993",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/961993/assignments/5843213/submissions/319247744",
+      "submitted": true
     },
     {
       "title": "Coursework: FINAL",
