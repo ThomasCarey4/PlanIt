@@ -50,6 +50,13 @@ assignments = {
       "dueDate": "2025-12-31T09:00:00",
       "link": "https://www.gradescope.com/courses/975231/assignments/5759465/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Natural Deduction Examples",
+      "course": "202425_32880_COMP2611",
+      "dueDate": "2025-05-26T14:11:00",
+      "link": "https://www.gradescope.com/courses/975231/assignments/5974931/submissions/new",
+      "submitted": false
     }
   ],
   "202425_32882_COMP2721": [
