@@ -18,15 +18,15 @@ assignments = {
       "title": "Coursework: CHECK",
       "course": "202425_32875_COMP2221",
       "dueDate": "2025-03-24T14:00:00",
-      "link": "https://www.gradescope.com/courses/961993/assignments/5843213/submissions/319247744",
+      "link": "https://www.gradescope.com/courses/961993/assignments/5843213/submissions/319489241",
       "submitted": true
     },
     {
       "title": "Coursework: FINAL",
       "course": "202425_32875_COMP2221",
       "dueDate": "2025-03-24T14:00:00",
-      "link": "https://www.gradescope.com/courses/961993",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/961993/assignments/5843399/submissions/319489271",
+      "submitted": true
     }
   ],
   "202425_32880_COMP2611": [
